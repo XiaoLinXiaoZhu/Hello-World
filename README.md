@@ -5,4 +5,8 @@ this is my first time to use the GitHub
 我特别喜欢ACG文化  
 ***希望有朝一日做出自己的游戏***   
 中国人   
+=======
+**Hope I can learn much from Github**   
+我十分喜欢ACG文化  
+我是中国人   
 哈哈
